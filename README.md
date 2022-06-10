@@ -6,6 +6,3 @@
 
 ### Fish-pure-background-dataset introduction
   The data set was originally collected 350 pieces, of which 300 pieces were used as the training set and 50 pieces were used as the test set. In order to better simulate the actual production of light changes, the 300 training set was expanded to 600 with different degrees of contrast transformation. Corresponding contrast transformation is also performed on the test set, but the number remains unchanged.  
-
-
-
